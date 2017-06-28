@@ -52,7 +52,7 @@
 		<?php require('banner.html'); ?>
 	</div>
 	<div id="nosotros" class="section scrollspy">
-		
+		<?php require('banner.html'); ?>
 	</div>
 	<div id="servicios" class="section scrollspy">
 		
